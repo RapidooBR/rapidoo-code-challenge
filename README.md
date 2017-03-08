@@ -48,4 +48,6 @@ Desafio técnio da Rapidoo | Factoring Online
 
 Sinta-se a vontade para entrar em contato e tirar qualquer dúvida, pois queremos te ajudar a mostrar todo o seu potencial.
 
+Envie o seu código para ola@rapidoo.com.br com o assunto 'Rapidoo Code Challenge'.
+
 Happy coding! =)

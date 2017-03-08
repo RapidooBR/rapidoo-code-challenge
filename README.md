@@ -1,5 +1,4 @@
-# Rapidoo Code Challenge - Homework Project
-Desafio técnio da Rapidoo | Factoring Online
+# Rapidoo Code Challenge
 
 **Tempo estimado**: 2h
 

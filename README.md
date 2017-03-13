@@ -1,7 +1,5 @@
 # Rapidoo Code Challenge
 
-**Tempo estimado**: 2h
-
 **Feature**:
   - O cliente tem interesse em saber qual é a taxa cobrada e quanto vai receber ao fazer a antecipação de um título (duplicata). Por isso, nós queremos fornecer um simulador ao cliente.
 

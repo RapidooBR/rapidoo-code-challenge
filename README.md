@@ -2,12 +2,13 @@
 
 ##Overview
 
-We just want to know if you've got what it takes :).
+We just want to know if you've got what it takes :)
+
 **IMPORTANTE: O código da sua solução não será usado em produção!**
 
 ###Problem/Hypothesis
 
-Nossos clientes estão frequentemente preguntando qual a taxa deles na plataforma e acreditamos que permitindo que eles simulem os valores de uma operação vamos ter uma melhoria nas taxas de "clientes que enviam operação na primeira semana" e na proporção de "títulos uploaded / títulos enviados".
+Nossos clientes estão frequentemente perguntando qual a taxa deles na plataforma e acreditamos que permitindo que eles simulem os valores de uma operação vamos ter uma melhoria nas taxas de "clientes que enviam operação na primeira semana" e na proporção de "títulos uploaded / títulos enviados".
 
 ###Goals:
 

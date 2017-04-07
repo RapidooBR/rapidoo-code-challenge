@@ -55,9 +55,9 @@ Um cliente tem faturamento de R$75.000,00 ao mês, e quer antecipar um título n
 
 ### What we want to see
 
+ - Entendimento do problema;
  - Design e qualidade de código;
  - Testes;
- - Desempenho de aplicação;
 
 ### Tech specs:
 

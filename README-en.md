@@ -34,7 +34,7 @@ We are here to help you anytime, just ask ;)
  - The interest rate value;
  - The net value;
  
-PS: We would like to use this data to get metrics and for future marketing purposes, so please save the data.
+PS: We would like to use this data to get metrics for future marketing purposes, so please save the data.
  
 ### Specifics
  
@@ -44,7 +44,7 @@ PS: We would like to use this data to get metrics and for future marketing purpo
  - Base interest rate is 1.65% per 10 days;
  
 ### Example
-A customer has a monthly revenue of R$ 75,000.00 and is discounting a receivable in the amount of $ 1,500.00 and a term of 28 days, so the interest rate is 4.95%, or R$ 74.25, and the customer will receive R$ 1,425.75 as the net value.
+A company has a monthly revenue of R$ 75,000.00 and is discounting a receivable of $ 1,500.00 and a term of 28 days, so the interest rate is 4.95%, or R$ 74.25, and the customer will receive R$ 1,425.75 as the net value.
  
 ### What we want to see
  - Understanding the problem;
@@ -62,15 +62,15 @@ A customer has a monthly revenue of R$ 75,000.00 and is discounting a receivable
  - Remember that the desirable requirements are "desirable" and not mandatory, if you do, is a differential.
  
 ### Future work:
- - Dynamic base rate depending on a company’s monthly turnover (ex. Over 100k / month is 1.5% and under 50k / month is 1.8%)
+ - Dynamic base interest rate depending on a company’s monthly revenue (ex. Over 100k / month is 1.5% and under 50k / month is 1.8%)
  - Analyze behavior of simulated values vs. values sent
  
 ## What else:
  
-** As part of your solution, please specify: **
+**As part of your solution, please specify:**
  - Software Requirements
  - Installation Instructions
-- Assumptions made about the challenge requirements
+ - Assumptions made about the challenge requirements
  - Anything you believe to be important but out of scope or unnecessary
  - Feel free to contact us and ask any questions as we want to help you show your full potential.
  

@@ -8,16 +8,7 @@ We just want to know if you've got what it takes :)
 
 ### Problem/Hypothesis
 
-Nossos clientes estão frequentemente perguntando qual a taxa deles na plataforma e acreditamos que permitindo que eles simulem os valores de uma operação vamos ter uma melhoria nas taxas de "clientes que enviam operação na primeira semana" e na proporção de "títulos uploaded / títulos enviados".
-
-### Goals:
-
-As métricas acima devem apresentar uma melhoria (os resultados não são conclusivos até X semanas).
-
-### Out of scope:
-
- - Melhorias no processo de cadastro ou onboarding
- - Comunicação do site
+Nossos clientes estão frequentemente perguntando qual a taxa deles e acreditamos que permitindo que eles simulem os valores de uma operação vamos ter uma melhoria na taxa de conversão.
 
 ### What the f***?
 
@@ -37,10 +28,10 @@ Estamos aqui para ajudá-lo a qualquer momento, basta perguntar ;).
  - O prazo até o vencimento (dias) do título;
 
 **Após isso, exibir os dados**
- - Valor da taxa;
- - Valor a receber;
+ - Valor da taxa (% e R$);
+ - Valor a receber (R$);
 
-ps. Nós queremos usar estes dados para tirar métricas e fazer marketing no futuro, por isso é importante salvar esses dados.
+ps. É importante persistir estes dados.
 
 ### Specifics
 
@@ -70,11 +61,6 @@ Um cliente tem faturamento de R$75.000,00 ao mês, e quer antecipar um título n
  - Hospedar a aplicação em um cloud gratuito, por exemplo Heroku;
  - Utilizar Ajax para interações assíncronas;
  - Lembrando que os requisitos desejáveis, são “desejáveis” e não obrigatórios, caso faça, é um diferencial.
-
-### Future work:
-
- - Taxa-base dinâmica variando com o faturamento mensal das empresas (p.e acima de 100k/mês é 1.5% e abaixo de 50k/mês é 1.8%);
- - Analisar comportamento de valores simulados vs. valores enviados.
 
 ## What else:
 

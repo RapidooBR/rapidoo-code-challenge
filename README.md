@@ -18,8 +18,9 @@ Estamos aqui para ajudá-lo a qualquer momento, basta perguntar ;).
 
 **IMPORTANTE: O código da sua solução não será usado em produção!**
 
-### Criar um web app onde o cliente consegue:
-**Enviar os dados:**
+### Criar um web app para permitir o cliente fazer uma simulação da taxa dele persistindo os dados inseridos.
+
+**O cliente deve inputar os seguintes dados:**
  - Nome;
  - E-mail;
  - Nome da empresa;

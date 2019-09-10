@@ -72,6 +72,6 @@ Um cliente tem faturamento de R$75.000,00 ao mês, e quer antecipar um título n
  - Qualquer coisa que você acredita ser importante mas fora de escopo ou desnecessário
  - Sinta-se a vontade para entrar em contato e tirar qualquer dúvida, pois queremos te ajudar a mostrar todo o seu potencial.
 
-Envie o seu código para ola@rapidoo.com.br com o assunto 'Rapidoo Code Challenge'.
+Envie o seu código para tech@rapidoo.com.br com o assunto 'Rapidoo Code Challenge'.
 
 **Happy coding! =)**
